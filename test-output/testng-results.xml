@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-07T08:38:43Z" name="Sample test Suite" finished-at="2020-12-07T08:38:43Z" duration-ms="297">
+    <groups>
+    </groups>
+    <test started-at="2020-12-07T08:38:43Z" name="Sample test" finished-at="2020-12-07T08:38:43Z" duration-ms="297">
+      <class name="Test.TestMkdir">
+        <test-method signature="lsVerify1Dir()[pri:0, instance:Test.TestMkdir@78ac1102]" started-at="2020-12-07T08:38:43Z" name="lsVerify1Dir" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsVerify1Dir -->
+        <test-method signature="VerifySeveralDirs()[pri:1, instance:Test.TestMkdir@78ac1102]" started-at="2020-12-07T08:38:43Z" name="VerifySeveralDirs" finished-at="2020-12-07T08:38:43Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySeveralDirs -->
+        <test-method signature="lsVerify1CdCommand()[pri:1, instance:Test.TestMkdir@78ac1102]" started-at="2020-12-07T08:38:43Z" name="lsVerify1CdCommand" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsVerify1CdCommand -->
+      </class> <!-- Test.TestMkdir -->
+      <class name="Test.TestLs">
+        <test-method signature="lsVerify1Dir()[pri:0, instance:Test.TestLs@3891771e]" started-at="2020-12-07T08:38:43Z" name="lsVerify1Dir" finished-at="2020-12-07T08:38:43Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsVerify1Dir -->
+        <test-method signature="lsTestCreatFile()[pri:1, instance:Test.TestLs@3891771e]" started-at="2020-12-07T08:38:43Z" name="lsTestCreatFile" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsTestCreatFile -->
+      </class> <!-- Test.TestLs -->
+      <class name="Test.TestTouch">
+        <test-method signature="lsVerify1Dir()[pri:0, instance:Test.TestTouch@2de8284b]" started-at="2020-12-07T08:38:43Z" name="lsVerify1Dir" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsVerify1Dir -->
+        <test-method signature="VerifySeveralDirs()[pri:1, instance:Test.TestTouch@2de8284b]" started-at="2020-12-07T08:38:43Z" name="VerifySeveralDirs" finished-at="2020-12-07T08:38:43Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySeveralDirs -->
+      </class> <!-- Test.TestTouch -->
+      <class name="Test.TestCd">
+        <test-method is-config="true" signature="launchCli()[pri:0, instance:Test.TestCd@17d0685f]" started-at="2020-12-07T08:38:43Z" name="launchCli" finished-at="2020-12-07T08:38:43Z" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCli -->
+        <test-method is-config="true" signature="launchCli()[pri:0, instance:Test.TestLs@3891771e]" started-at="2020-12-07T08:38:43Z" name="launchCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCli -->
+        <test-method is-config="true" signature="launchCli()[pri:0, instance:Test.TestMkdir@78ac1102]" started-at="2020-12-07T08:38:43Z" name="launchCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCli -->
+        <test-method is-config="true" signature="launchCli()[pri:0, instance:Test.TestTouch@2de8284b]" started-at="2020-12-07T08:38:43Z" name="launchCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCli -->
+        <test-method signature="lsTestCdFile()[pri:0, instance:Test.TestCd@17d0685f]" started-at="2020-12-07T08:38:43Z" name="lsTestCdFile" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsTestCdFile -->
+        <test-method signature="lsTestCd()[pri:1, instance:Test.TestCd@17d0685f]" started-at="2020-12-07T08:38:43Z" name="lsTestCd" finished-at="2020-12-07T08:38:43Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lsTestCd -->
+        <test-method is-config="true" signature="CloseCli()[pri:0, instance:Test.TestLs@3891771e]" started-at="2020-12-07T08:38:43Z" name="CloseCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseCli -->
+        <test-method is-config="true" signature="CloseCli()[pri:0, instance:Test.TestMkdir@78ac1102]" started-at="2020-12-07T08:38:43Z" name="CloseCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseCli -->
+        <test-method is-config="true" signature="CloseCli()[pri:0, instance:Test.TestTouch@2de8284b]" started-at="2020-12-07T08:38:43Z" name="CloseCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseCli -->
+        <test-method is-config="true" signature="CloseCli()[pri:0, instance:Test.TestCd@17d0685f]" started-at="2020-12-07T08:38:43Z" name="CloseCli" finished-at="2020-12-07T08:38:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseCli -->
+      </class> <!-- Test.TestCd -->
+    </test> <!-- Sample test -->
+  </suite> <!-- Sample test Suite -->
+</testng-results>

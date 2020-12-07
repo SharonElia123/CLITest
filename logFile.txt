@@ -1,0 +1,1232 @@
+2020-12-07 10:32:26,101 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:32:26,117 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:32:26,117 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:32:26,148 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,148 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,148 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,164 INFO  [Log] Start make files 
+ 2020-12-07 10:32:26,164 INFO  [Log] Creating files 
+ 2020-12-07 10:32:26,164 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,164 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,164 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,164 INFO  [Log] run cd command 
+ 2020-12-07 10:32:26,164 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,164 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,164 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,164 INFO  [Log] run cd command 
+ 2020-12-07 10:32:26,164 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,164 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,164 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,164 INFO  [Log] Start Ls command 
+ 2020-12-07 10:32:26,164 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:32:26,179 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,179 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,179 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,179 INFO  [Log] start the mkdir 
+ 2020-12-07 10:32:26,179 INFO  [Log] Creating dirs 
+ 2020-12-07 10:32:26,179 INFO  [Log] launch the process 
+ 2020-12-07 10:32:26,179 INFO  [Log] return parameter 
+ 2020-12-07 10:32:26,179 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:32:26,179 INFO  [Log] run cd command 
+ 2020-12-07 10:32:26,179 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:35:12,081 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:35:12,128 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,128 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,128 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,128 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,128 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,128 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,128 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,128 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,144 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,144 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,144 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,144 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,144 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,144 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,144 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,144 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,144 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,159 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,159 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,159 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,159 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,159 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,159 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,159 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,159 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,159 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,175 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,175 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,175 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,175 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,175 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,190 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] start the mkdir 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating dirs 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] run cd command 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,190 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,190 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,190 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,190 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,190 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start make files 
+ 2020-12-07 10:35:12,206 INFO  [Log] Creating files 
+ 2020-12-07 10:35:12,206 INFO  [Log] launch the process 
+ 2020-12-07 10:35:12,206 INFO  [Log] return parameter 
+ 2020-12-07 10:35:12,206 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:35:12,206 INFO  [Log] Start Ls command 
+ 2020-12-07 10:35:12,206 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:35:12,206 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:35:12,206 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:35:12,206 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:35:12,206 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:36:31,873 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:36:31,888 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:36:31,888 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:36:31,888 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:36:31,904 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,904 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,904 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,919 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,919 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,919 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,919 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,919 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,919 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,919 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,919 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,919 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,919 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,935 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,935 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,935 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,935 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,935 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,935 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,935 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,951 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,951 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,951 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,951 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,951 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,951 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,966 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] start the mkdir 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating dirs 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] run cd command 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,966 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,966 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,966 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,966 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,966 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start make files 
+ 2020-12-07 10:36:31,982 INFO  [Log] Creating files 
+ 2020-12-07 10:36:31,982 INFO  [Log] launch the process 
+ 2020-12-07 10:36:31,982 INFO  [Log] return parameter 
+ 2020-12-07 10:36:31,982 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:36:31,982 INFO  [Log] Start Ls command 
+ 2020-12-07 10:36:31,982 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:36:31,982 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:36:31,982 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:36:31,982 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:36:31,982 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:37:42,656 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:37:42,687 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,687 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,687 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,687 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,687 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,687 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,702 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,702 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,702 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,702 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,702 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,702 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,702 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,702 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,702 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,702 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,702 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,702 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,702 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,702 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,702 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,702 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,702 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,702 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,702 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,702 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,702 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,702 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,702 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,718 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,718 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,718 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,718 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,718 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,718 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,718 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,718 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,718 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,718 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,734 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,734 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,734 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,734 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,749 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] start the mkdir 
+ 2020-12-07 10:37:42,749 INFO  [Log] Creating dirs 
+ 2020-12-07 10:37:42,749 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,749 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,749 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,749 INFO  [Log] run cd command 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,765 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,765 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,765 INFO  [Log] Start make files 
+ 2020-12-07 10:37:42,765 INFO  [Log] Creating files 
+ 2020-12-07 10:37:42,765 INFO  [Log] launch the process 
+ 2020-12-07 10:37:42,781 INFO  [Log] return parameter 
+ 2020-12-07 10:37:42,781 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:37:42,781 INFO  [Log] Start Ls command 
+ 2020-12-07 10:37:42,781 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:37:42,781 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:37:42,781 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:37:42,781 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:37:42,781 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ***********************                 LunchCli       ********** 
+ 2020-12-07 10:38:43,471 INFO  [Log] ************************************************************************* 
+ 2020-12-07 10:38:43,517 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,517 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,517 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,517 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,517 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,517 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,517 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,517 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,517 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,517 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,517 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,517 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,517 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,517 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,517 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,517 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,517 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,517 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,533 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,533 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,533 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,533 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,533 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,533 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,533 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,533 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,533 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,533 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,533 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,549 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,549 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,549 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,549 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,549 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,549 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,564 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] start the mkdir 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating dirs 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] run cd command 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,564 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,564 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,564 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,564 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,564 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start make files 
+ 2020-12-07 10:38:43,580 INFO  [Log] Creating files 
+ 2020-12-07 10:38:43,580 INFO  [Log] launch the process 
+ 2020-12-07 10:38:43,580 INFO  [Log] return parameter 
+ 2020-12-07 10:38:43,580 INFO  [Log] send the command to relevant class 
+ 2020-12-07 10:38:43,580 INFO  [Log] Start Ls command 
+ 2020-12-07 10:38:43,580 INFO  [Log] Get the results(Dirs/Files 
+ 2020-12-07 10:38:43,580 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:38:43,580 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:38:43,580 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 2020-12-07 10:38:43,580 INFO  [Log] *********             CloseCli And complete the Test             *********** 
+ 
