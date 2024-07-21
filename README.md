@@ -31,7 +31,7 @@ To do the mission created  5 Directories.
 7. Log- Send us logs about the flow
 8. Exceptions- there is severla exception that our system throw.
 ---------------------------------------
-Examplle:
+Example:
 User:
 please write your query mkdir Table
 Great! you create a Directory
